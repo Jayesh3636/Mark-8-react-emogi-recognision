@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap");
+
+.ObjR-app {
+  margin-top: 3rems;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+.input-bx {
+  height: 2rem;
+  width: rem;
+  font-family: "Montserrat";
+
+  padding: "2rem";
+}
+body {
+  background: white width=50%;
+}
